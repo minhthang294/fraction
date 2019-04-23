@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1556013947 source:e:\1651 - advanced programming\codes\fractionproject\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<list>
+	"Fraction.h"
+
+1555987661 source:e:\1651 - advanced programming\codes\fractionproject\src\fraction.cpp
+	"Fraction.h"
+	<iostream>
+
+1555987661 e:\1651 - advanced programming\codes\fractionproject\include\fraction.h
+	<iostream>
+
